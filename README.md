@@ -8,11 +8,7 @@ Ubuntu 18.04
 
 Libraries:
 ---------
-numpy 
-pandas 
-nltk 
-abydos 
-sentence_transformer
+numpy | pandas | nltk  | abydos |  sentence_transformer
 
 
 Usage (Terminal):
